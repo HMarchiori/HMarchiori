@@ -1,5 +1,5 @@
-# Henrique Marchiori
-
+# Henrique Marchiori | IT ACADEMY #22
+#### Software Engineer Intern at Dell Tecnologies
 <!--
 **HMarchiori/HMarchiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
